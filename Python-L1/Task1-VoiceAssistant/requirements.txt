@@ -1,0 +1,5 @@
+SpeechRecognition
+pyttsx3
+PyAudio==0.2.14
+requests
+nltk
